@@ -1,7 +1,7 @@
 ![Headshot](Ranganatha-Chawan.JPG)
 
 # A little insight into Ranganatha Chawan
-Hi Everyone! My name is Ranganatha Chawan and I am a Embedded Software Engineer | Freelance Web Developer. This README will give you a bit of information about me!
+Hi Everyone! My name is Ranganatha Chawan and I am a Embedded Software Engineer with one year of experience and Freelance Web Developer. This README will give you a bit of information about me!
 
 ## My careerer passions
 I really love working in tech. Specifically, I love being in a position where I can help others build something amazing!
